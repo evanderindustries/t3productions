@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: T3Productions
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: T3Productions
+subheading: All the News that's Fit to Shew
 mainpitch:
   title: Why Kaldi
   description: >
