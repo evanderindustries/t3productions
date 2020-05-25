@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: T3Productions
-image: /img/hero_05.jpg
+image: /img/hero_06.jpg
 heading: T3Productions
 subheading: All the News that's Fit to Shew
 mainpitch:
