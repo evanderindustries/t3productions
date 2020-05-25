@@ -14,11 +14,11 @@ export default class BlogIndexPage extends React.Component {
           }}
         >
           <h1
-            className="has-text-weight-bold is-size-1"
+            className="has-text-weight-bold is-size-1 has-text-white has-background-primary my-primary-boxshadow"
             style={{
-              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-              backgroundColor: '#f40',
-              color: 'white',
+              //boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
+              //backgroundColor: '#f40',
+              //color: 'white',
               padding: '1rem',
             }}
           >
